@@ -26,16 +26,18 @@ This project was created as part of a frontend assignment to practice layout des
 
 ## Project Structure
 
+```
 Frontend Task/
 │── index.html
 │── style.css
 │── script.js
 │── assets/
-│ ├── images/
-│ └── icons/
+│   ├── images/
+│   └── icons/
 │── README.md
 
 
+```
 
 ---
 
@@ -51,6 +53,6 @@ Frontend Task/
 
 ##  Author
 
-NABIN BUDHATHOKI
-Frontend Development Assignment  
+**NABIN BUDHATHOKI**
+**Frontend Development Assignment** 
 

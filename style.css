@@ -471,16 +471,16 @@ a {
       #655a5a00 100%
     ),
     url("/assets/images/about_image.png");
-  height: 600px;
+  height: 610px;
   background-position: center center;
   background-repeat: no-repeat;
   z-index: 5;
 }
 
 .about__title {
-  color: #e0dddd;
+  color: #E0DDDD;
   margin-top: 4rem;
-  font-size: clamp(1.5rem, 2vw, 2rem);
+  font-size: clamp(1.4rem, 2vw, 2rem);
   font-weight: 500;
 }
 
